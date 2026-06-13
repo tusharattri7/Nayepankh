@@ -63,26 +63,6 @@ nayepankh/
 - ♿ **Reduced motion support** — respects `prefers-reduced-motion` for accessibility
 - 🔆 **Active nav highlighting** — current section is highlighted as you scroll
 
----
-
-## 🚀 Getting Started
-
-### Option 1 — Open directly
-```bash
-# Clone the repo
-git clone https://github.com/your-username/nayepankh-foundation.git
-
-# Open index.html in your browser
-```
-
-### Option 2 — VS Code Live Server (Recommended)
-1. Open the project folder in **VS Code**
-2. Install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension
-3. Right-click `index.html` → **"Open with Live Server"**
-4. Your browser opens at `http://127.0.0.1:5500`
-
----
-
 ## 🎨 Design System
 
 ### Color Palette
